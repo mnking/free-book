@@ -1,0 +1,2 @@
+# Chapter 1. Getting Started with Doctrine 2
+The Doctrine project is a collection of libraries providing utilities to ease data persistence in PHP applications. It makes it possible to create complex model layers in no time that will be compatible with popular DBMS, including SQLite, MySQL, and PostgreSQL. To discover and understand Doctrine, we will create a small blog from scratch throughout this book that will mainly use the following Doctrine components:
