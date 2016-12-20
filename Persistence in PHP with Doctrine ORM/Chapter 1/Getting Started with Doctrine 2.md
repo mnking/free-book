@@ -25,7 +25,8 @@ The following is a screenshot of the blog:
 
 ![screenshot](https://www.packtpub.com/graphics/9781782164104/graphics/4104OS_01_01.jpg)
 
-- In this chapter, we will learn about the following topics:
+In this chapter, we will learn about the following topics:
+
 - Understanding concepts behind Doctrine
 - Creating the project's structure
 - Installing Composer
