@@ -11,3 +11,25 @@ The Doctrine project is a collection of libraries providing utilities to ease da
 
 > ### Note
 For more information on PHP Data Objects and the data-access abstraction layer provided by PHP, refer to the following link: http://php.net/manual/en/book.pdo.php
+
+To learn Doctrine, we will build together a tiny blog engine with advanced features such as the following:
+
+- Posts list, creation, editing, and deletion
+- Comments
+- Tag filtering
+- Profiles for author of posts and comments
+- Statistics
+- Data fixtures
+
+The following is a screenshot of the blog:
+
+![screenshot](https://www.packtpub.com/graphics/9781782164104/graphics/4104OS_01_01.jpg)
+
+- In this chapter, we will learn about the following topics:
+- Understanding concepts behind Doctrine
+- Creating the project's structure
+- Installing Composer
+- Installing Doctrine ORM, DBAL, and Common through Compose
+- Bootstrapping the app
+- Using Doctrine's Entity Manager
+- Configuring Doctrine command-line tools
