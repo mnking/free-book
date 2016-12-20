@@ -7,5 +7,7 @@ The Doctrine project is a collection of libraries providing utilities to ease da
 >
 > **Object Relational Mapper (ORM)** allows accessing and managing relational database tables and rows through an object-oriented API. Thanks to it, we will directly manipulate PHP objects, and it will transparently generate SQL queries to populate, persist, update, and delete them. It is built on top of DBAL and will be the main topic of this book.
 
+<!-- -->
+
 > ### Note
 For more information on PHP Data Objects and the data-access abstraction layer provided by PHP, refer to the following link: http://php.net/manual/en/book.pdo.php
